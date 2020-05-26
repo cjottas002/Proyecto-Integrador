@@ -1,3 +1,3 @@
 # Proyecto-Integrador
 
-Tienda no online de productos informáticos en C, para aprender a usar todas las sentencias
+Tienda de productos informáticos en C, aplicando conceptos avanzados, utilizando ficheros de textos y binarios como dataSource.
