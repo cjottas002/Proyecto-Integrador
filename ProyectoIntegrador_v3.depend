@@ -1,0 +1,939 @@
+# depslib dependency file v1.0
+1450042356 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\auxiliar\auxiliar.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1454249690 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\cestas\cesta.c
+	<stdio.h>
+	<string.h>
+	"malloc.h"
+	"../ventas/venta.h"
+	"../productos/atributo.h"
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/cesta.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+	"../auxiliar/auxiliar.h"
+
+1449419180 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\ventas\venta.h
+	"../cestas/cesta.h"
+	"../ventas/fecha.h"
+
+1449246820 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\cestas\cesta.h
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/podCesta.h"
+
+1449328550 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\catalogo.h
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449426040 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\listaatributos.h
+
+1449246818 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\listaproductos.h
+
+1449246818 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\producto.h
+
+1449569460 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\cestas\podcesta.h
+
+1449076852 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\ventas\fecha.h
+
+1449426104 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\atributo.h
+
+1449418858 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\listausuarios.h
+	"../clientes/usuario.h"
+
+1449419032 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\usuario.h
+
+1449740100 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\auxiliar\auxiliar.h
+	<windows.h>
+	<conio.h>
+
+1450213392 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\cestas\podcesta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../cestas/podCesta.h"
+
+1450186958 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\clientes.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../clientes/clientes.h"
+	<stdbool.h>
+	<string.h>
+
+1449246814 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\clientes.h
+	<stdbool.h>
+
+1453043092 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\listaclientes.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendaVirtual/Tvirtual.h"
+	"../clientes/listaClientes.h"
+	"../clientes/solicitud.h"
+
+1448663724 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\main\menus.h
+
+1448669146 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.h
+
+1449246822 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\listaclientes.h
+
+1449418530 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\solicitud.h
+	"../clientes/clientes.h"
+	"../clientes/usuario.h"
+
+1450126806 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\listausuarios.c
+	<stdio.h>
+	<string.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+
+1453042738 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\clientes\solicitud.c
+	<stdio.h>
+	<string.h>
+	"../clientes/solicitud.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+
+1449477240 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\main\accesosistema.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../clientes/listaUsuarios.h"
+	"../cestas/cesta.h"
+
+1450040824 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\main\menus.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../main/accesoSistema.h"
+	"../clientes/listaClientes.h"
+	"../main/menus.h"
+	"../clientes/solicitud.h"
+
+1448668678 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\main\accesosistema.h
+
+1449477754 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\main\tv_main.c
+	<stdio.h>
+	<locale.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../main/menus.h"
+	"../cestas/cesta.h"
+
+1449582132 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\atributo.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+
+1449328586 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\catalogo.c
+	<stdio.h>
+	"../productos/catalogo.h"
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449735090 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\listaatributos.c
+	<stdio.h>
+	<string.h>
+	"../productos/listaAtributos.h"
+	"../productos/atributo.h"
+	"../auxiliar/auxiliar.h"
+	<malloc.h>
+
+1451841802 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\listaproductos.c
+	<stdio.h>
+	"../productos/listaProductos.h"
+	"../productos/producto.h"
+	"../auxiliar/auxiliar.h"
+
+1449739508 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\productos\producto.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/producto.h"
+
+1449482698 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.c
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+	"../productos/listaproductos.h"
+	"../ventas/listaVentas.h"
+	"../main/menus.h"
+	<stdio.h>
+
+1450020070 d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\ventas\listaventas.h
+	"../ventas/venta.h"
+
+1449854104 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\ventas\fecha.c
+	<stdio.h>
+	<time.h>
+	"../ventas/fecha.h"
+
+1450357158 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\ventas\listaventas.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../ventas/listaVentas.h"
+	"../ventas/fecha.h"
+
+1450219296 source:d:\telecomunicaciones\primercuatrimestre\programación\semana13\proyectointegrador_v3\ventas\venta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../ventas/venta.h"
+	"../cestas/cesta.h"
+
+1450045956 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\auxiliar\auxiliar.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1454253290 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\cestas\cesta.c
+	<stdio.h>
+	<string.h>
+	"malloc.h"
+	"../ventas/venta.h"
+	"../productos/atributo.h"
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/cesta.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+	"../auxiliar/auxiliar.h"
+
+1449422780 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\ventas\venta.h
+	"../cestas/cesta.h"
+	"../ventas/fecha.h"
+
+1449250420 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\cestas\cesta.h
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/podCesta.h"
+
+1449332150 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\catalogo.h
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449429640 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\listaatributos.h
+
+1449250418 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\listaproductos.h
+
+1449250418 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\producto.h
+
+1449573060 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\cestas\podcesta.h
+
+1449080452 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\ventas\fecha.h
+
+1449429704 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\atributo.h
+
+1449422458 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\clientes\listausuarios.h
+	"../clientes/usuario.h"
+
+1449422632 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\clientes\usuario.h
+
+1449743700 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\auxiliar\auxiliar.h
+	<windows.h>
+	<conio.h>
+
+1450216992 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\cestas\podcesta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../cestas/podCesta.h"
+
+1450190558 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\clientes\clientes.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../clientes/clientes.h"
+	<stdbool.h>
+	<string.h>
+
+1449250414 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\clientes\clientes.h
+	<stdbool.h>
+
+1453046692 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\clientes\listaclientes.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendaVirtual/Tvirtual.h"
+	"../clientes/listaClientes.h"
+	"../clientes/solicitud.h"
+
+1448667324 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\main\menus.h
+
+1448672746 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.h
+
+1449250422 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\clientes\listaclientes.h
+
+1449422130 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\clientes\solicitud.h
+	"../clientes/clientes.h"
+	"../clientes/usuario.h"
+
+1453046338 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\clientes\solicitud.c
+	<stdio.h>
+	<string.h>
+	"../clientes/solicitud.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+
+1449480840 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\main\accesosistema.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../clientes/listaUsuarios.h"
+	"../cestas/cesta.h"
+
+1450044424 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\main\menus.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../main/accesoSistema.h"
+	"../clientes/listaClientes.h"
+	"../main/menus.h"
+	"../clientes/solicitud.h"
+
+1448672278 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\main\accesosistema.h
+
+1449481354 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\main\tv_main.c
+	<stdio.h>
+	<locale.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../main/menus.h"
+	"../cestas/cesta.h"
+
+1449585732 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\atributo.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+
+1449332186 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\catalogo.c
+	<stdio.h>
+	"../productos/catalogo.h"
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449738690 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\listaatributos.c
+	<stdio.h>
+	<string.h>
+	"../productos/listaAtributos.h"
+	"../productos/atributo.h"
+	"../auxiliar/auxiliar.h"
+	<malloc.h>
+
+1451845402 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\listaproductos.c
+	<stdio.h>
+	"../productos/listaProductos.h"
+	"../productos/producto.h"
+	"../auxiliar/auxiliar.h"
+
+1449743108 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\productos\producto.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/producto.h"
+
+1449486298 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.c
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+	"../productos/listaproductos.h"
+	"../ventas/listaVentas.h"
+	"../main/menus.h"
+	<stdio.h>
+
+1450023670 c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\ventas\listaventas.h
+	"../ventas/venta.h"
+
+1449857704 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\ventas\fecha.c
+	<stdio.h>
+	<time.h>
+	"../ventas/fecha.h"
+
+1450360758 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\ventas\listaventas.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../ventas/listaVentas.h"
+	"../ventas/fecha.h"
+
+1450222896 source:c:\users\cjottas\documents\documentos\am1\2semestre\programacion en c\semana13\proyectointegrador_v3\ventas\venta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../ventas/venta.h"
+	"../cestas/cesta.h"
+
+1450042356 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\auxiliar\auxiliar.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1454249690 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\cesta.c
+	<stdio.h>
+	<string.h>
+	"malloc.h"
+	"../ventas/venta.h"
+	"../productos/atributo.h"
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/cesta.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+	"../auxiliar/auxiliar.h"
+
+1449419180 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\venta.h
+	"../cestas/cesta.h"
+	"../ventas/fecha.h"
+
+1449246820 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\cesta.h
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/podCesta.h"
+
+1449328550 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\catalogo.h
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449426040 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaatributos.h
+
+1449246818 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaproductos.h
+
+1449246818 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\producto.h
+
+1449569460 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\podcesta.h
+
+1449076852 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\fecha.h
+
+1449426104 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\atributo.h
+
+1449418858 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listausuarios.h
+	"../clientes/usuario.h"
+
+1449419032 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\usuario.h
+
+1449740100 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\auxiliar\auxiliar.h
+	<windows.h>
+	<conio.h>
+
+1450213392 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\podcesta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../cestas/podCesta.h"
+
+1450186958 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\clientes.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../clientes/clientes.h"
+	<stdbool.h>
+	<string.h>
+
+1449246814 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\clientes.h
+	<stdbool.h>
+
+1453043092 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listaclientes.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendaVirtual/Tvirtual.h"
+	"../clientes/listaClientes.h"
+	"../clientes/solicitud.h"
+
+1448663724 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\menus.h
+
+1448669146 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.h
+
+1449246822 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listaclientes.h
+
+1449418530 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\solicitud.h
+	"../clientes/clientes.h"
+	"../clientes/usuario.h"
+
+1477518177 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listausuarios.c
+	<stdio.h>
+	<string.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+
+1453042738 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\solicitud.c
+	<stdio.h>
+	<string.h>
+	"../clientes/solicitud.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+
+1449477240 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\accesosistema.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../clientes/listaUsuarios.h"
+	"../cestas/cesta.h"
+
+1450040824 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\menus.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../main/accesoSistema.h"
+	"../clientes/listaClientes.h"
+	"../main/menus.h"
+	"../clientes/solicitud.h"
+
+1448668678 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\accesosistema.h
+
+1449477754 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\tv_main.c
+	<stdio.h>
+	<locale.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../main/menus.h"
+	"../cestas/cesta.h"
+
+1449582132 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\atributo.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+
+1449328586 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\catalogo.c
+	<stdio.h>
+	"../productos/catalogo.h"
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449735090 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaatributos.c
+	<stdio.h>
+	<string.h>
+	"../productos/listaAtributos.h"
+	"../productos/atributo.h"
+	"../auxiliar/auxiliar.h"
+	<malloc.h>
+
+1451841802 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaproductos.c
+	<stdio.h>
+	"../productos/listaProductos.h"
+	"../productos/producto.h"
+	"../auxiliar/auxiliar.h"
+
+1449739508 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\producto.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/producto.h"
+
+1449482698 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.c
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+	"../productos/listaproductos.h"
+	"../ventas/listaVentas.h"
+	"../main/menus.h"
+	<stdio.h>
+
+1450020070 d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\listaventas.h
+	"../ventas/venta.h"
+
+1449854104 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\fecha.c
+	<stdio.h>
+	<time.h>
+	"../ventas/fecha.h"
+
+1450357158 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\listaventas.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../ventas/listaVentas.h"
+	"../ventas/fecha.h"
+
+1450219296 source:d:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\venta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../ventas/venta.h"
+	"../cestas/cesta.h"
+
+1450042356 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\auxiliar\auxiliar.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1454249690 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\cesta.c
+	<stdio.h>
+	<string.h>
+	"malloc.h"
+	"../ventas/venta.h"
+	"../productos/atributo.h"
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/cesta.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+	"../auxiliar/auxiliar.h"
+
+1449419180 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\venta.h
+	"../cestas/cesta.h"
+	"../ventas/fecha.h"
+
+1449246820 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\cesta.h
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/podCesta.h"
+
+1449328550 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\catalogo.h
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449426040 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaatributos.h
+
+1449246818 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaproductos.h
+
+1449246818 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\producto.h
+
+1449569460 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\podcesta.h
+
+1449076852 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\fecha.h
+
+1449426104 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\atributo.h
+
+1449418858 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listausuarios.h
+	"../clientes/usuario.h"
+
+1449419032 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\usuario.h
+
+1449740100 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\auxiliar\auxiliar.h
+	<windows.h>
+	<conio.h>
+
+1450213392 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\podcesta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../cestas/podCesta.h"
+
+1450186958 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\clientes.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../clientes/clientes.h"
+	<stdbool.h>
+	<string.h>
+
+1449246814 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\clientes.h
+	<stdbool.h>
+
+1453043092 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listaclientes.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendaVirtual/Tvirtual.h"
+	"../clientes/listaClientes.h"
+	"../clientes/solicitud.h"
+
+1448663724 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\menus.h
+
+1448669146 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.h
+
+1449246822 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listaclientes.h
+
+1449418530 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\solicitud.h
+	"../clientes/clientes.h"
+	"../clientes/usuario.h"
+
+1453042738 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\solicitud.c
+	<stdio.h>
+	<string.h>
+	"../clientes/solicitud.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+
+1449477240 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\accesosistema.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../clientes/listaUsuarios.h"
+	"../cestas/cesta.h"
+
+1450040824 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\menus.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../main/accesoSistema.h"
+	"../clientes/listaClientes.h"
+	"../main/menus.h"
+	"../clientes/solicitud.h"
+
+1448668678 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\accesosistema.h
+
+1449477754 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\tv_main.c
+	<stdio.h>
+	<locale.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../main/menus.h"
+	"../cestas/cesta.h"
+
+1449582132 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\atributo.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+
+1449328586 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\catalogo.c
+	<stdio.h>
+	"../productos/catalogo.h"
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449735090 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaatributos.c
+	<stdio.h>
+	<string.h>
+	"../productos/listaAtributos.h"
+	"../productos/atributo.h"
+	"../auxiliar/auxiliar.h"
+	<malloc.h>
+
+1451841802 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaproductos.c
+	<stdio.h>
+	"../productos/listaProductos.h"
+	"../productos/producto.h"
+	"../auxiliar/auxiliar.h"
+
+1449739508 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\producto.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/producto.h"
+
+1449482698 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.c
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+	"../productos/listaproductos.h"
+	"../ventas/listaVentas.h"
+	"../main/menus.h"
+	<stdio.h>
+
+1450020070 e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\listaventas.h
+	"../ventas/venta.h"
+
+1449854104 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\fecha.c
+	<stdio.h>
+	<time.h>
+	"../ventas/fecha.h"
+
+1450357158 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\listaventas.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../ventas/listaVentas.h"
+	"../ventas/fecha.h"
+
+1450219296 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\venta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../ventas/venta.h"
+	"../cestas/cesta.h"
+
+1580600506 source:e:\am1\2semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listausuarios.c
+	<stdio.h>
+	<string.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+
+1450042356 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\auxiliar\auxiliar.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1584391769 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\cesta.c
+	<stdio.h>
+	<string.h>
+	"malloc.h"
+	"../ventas/venta.h"
+	"../productos/atributo.h"
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/cesta.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+	"../auxiliar/auxiliar.h"
+
+1449419180 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\venta.h
+	"../cestas/cesta.h"
+	"../ventas/fecha.h"
+
+1449246820 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\cesta.h
+	"../productos/catalogo.h"
+	"../productos/producto.h"
+	"../cestas/podCesta.h"
+
+1449328550 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\catalogo.h
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449426040 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaatributos.h
+
+1449246818 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaproductos.h
+
+1449246818 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\producto.h
+
+1449569460 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\podcesta.h
+
+1449076852 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\fecha.h
+
+1449426104 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\atributo.h
+
+1449418858 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listausuarios.h
+	"../clientes/usuario.h"
+
+1449419032 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\usuario.h
+
+1449740100 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\auxiliar\auxiliar.h
+	<windows.h>
+	<conio.h>
+
+1450213392 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\cestas\podcesta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../cestas/podCesta.h"
+
+1450186958 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\clientes.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../clientes/clientes.h"
+	<stdbool.h>
+	<string.h>
+
+1449246814 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\clientes.h
+	<stdbool.h>
+
+1453043092 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listaclientes.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendaVirtual/Tvirtual.h"
+	"../clientes/listaClientes.h"
+	"../clientes/solicitud.h"
+
+1448663724 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\menus.h
+
+1448669146 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.h
+
+1449246822 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listaclientes.h
+
+1449418530 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\solicitud.h
+	"../clientes/clientes.h"
+	"../clientes/usuario.h"
+
+1580600506 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\listausuarios.c
+	<stdio.h>
+	<string.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/listaProductos.h"
+	"../clientes/listaUsuarios.h"
+
+1453042738 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\clientes\solicitud.c
+	<stdio.h>
+	<string.h>
+	"../clientes/solicitud.h"
+	"../clientes/clientes.h"
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+
+1449477240 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\accesosistema.c
+	<stdio.h>
+	<string.h>
+	"../main/menus.h"
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../clientes/listaUsuarios.h"
+	"../cestas/cesta.h"
+
+1450040824 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\menus.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../main/accesoSistema.h"
+	"../clientes/listaClientes.h"
+	"../main/menus.h"
+	"../clientes/solicitud.h"
+
+1448668678 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\accesosistema.h
+
+1449477754 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\main\tv_main.c
+	<stdio.h>
+	<locale.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../main/menus.h"
+	"../cestas/cesta.h"
+
+1449582132 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\atributo.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+
+1449328586 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\catalogo.c
+	<stdio.h>
+	"../productos/catalogo.h"
+	"../productos/listaAtributos.h"
+	"../productos/listaProductos.h"
+
+1449735090 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaatributos.c
+	<stdio.h>
+	<string.h>
+	"../productos/listaAtributos.h"
+	"../productos/atributo.h"
+	"../auxiliar/auxiliar.h"
+	<malloc.h>
+
+1451841802 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\listaproductos.c
+	<stdio.h>
+	"../productos/listaProductos.h"
+	"../productos/producto.h"
+	"../auxiliar/auxiliar.h"
+
+1449739508 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\productos\producto.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../productos/producto.h"
+
+1449482698 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\tiendavirtual\tvirtual.c
+	"../auxiliar/auxiliar.h"
+	"../clientes/listaClientes.h"
+	"../productos/listaproductos.h"
+	"../ventas/listaVentas.h"
+	"../main/menus.h"
+	<stdio.h>
+
+1450020070 e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\listaventas.h
+	"../ventas/venta.h"
+
+1449854104 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\fecha.c
+	<stdio.h>
+	<time.h>
+	"../ventas/fecha.h"
+
+1450357158 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\listaventas.c
+	<stdio.h>
+	<conio.h>
+	"../auxiliar/auxiliar.h"
+	"../tiendavirtual/TVirtual.h"
+	"../ventas/listaVentas.h"
+	"../ventas/fecha.h"
+
+1450219296 source:e:\am1\1semestre\programacion\programacion en c\semana13\proyectointegrador_v3\ventas\venta.c
+	<stdio.h>
+	"../auxiliar/auxiliar.h"
+	"../ventas/venta.h"
+	"../cestas/cesta.h"
+

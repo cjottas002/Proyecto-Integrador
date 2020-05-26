@@ -1,0 +1,5 @@
+super  admin  1
+ger1   ger1   1
+cli1   cli1   2
+cli2   cli2   2
+cli3   cli3   2

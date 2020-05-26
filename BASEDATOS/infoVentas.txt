@@ -1,0 +1,35 @@
+VENTA NUMERO: 1
+ID de venta: 191228230729
+fecha: 28/12/2019
+Hora: 23:07:29
+Numero de productos: 2
+Cod.		Producto			p.u.	Cant	Total
+
+AER148    	FUENTE ALIMENTACION 650W AERO   72.78   2       145.56
+ANTE334   	CAJA SEMITORRE ANTEC VSP5000    56.13   1       56.13
+
+Importe total de la cesta: 201.69
+
+VENTA NUMERO: 2
+ID de venta: 191228230758
+fecha: 28/12/2019
+Hora: 23:07:58
+Numero de productos: 2
+Cod.		Producto			p.u.	Cant	Total
+
+MSI372    	PLACA INTEL CORE i3/i5/i7 MSI   48.91   1       48.91
+ANTE334   	CAJA SEMITORRE ANTEC VSP5000    56.13   5       280.65
+
+Importe total de la cesta: 329.56
+
+VENTA NUMERO: 3
+ID de venta: 191228230840
+fecha: 28/12/2019
+Hora: 23:08:40
+Numero de productos: 1
+Cod.		Producto			p.u.	Cant	Total
+
+NOX124    	FUENTE ALIMENTACION 750W NOX    85.62   1       85.62
+
+Importe total de la cesta: 85.62
+

@@ -1,0 +1,14 @@
+1	Cajas
+2	Fuentes alimentación
+3	Placas base
+4	Procesadores
+5	Refrigeradores CPU
+6	Memoria RAM
+7	Discos
+8	Tarjetas gráficas
+9	Lectora multimedia
+10	DVD y Blu-Ray
+11	Monitores
+12	Teclados
+13	Ratones
+14	Sistema operativo
